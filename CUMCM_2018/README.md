@@ -2,4 +2,10 @@
 
 ## Problem B - Second Prize
 
-greedy algorithm; graph theory; simulation; dynamic dispatch
+- simulation
+  - OOP & `numpy.random` in Python
+- greedy algorithm
+- dynamic dispatch & graph theory
+  - C++
+- Markov Decision Process
+  - `mdp_policy_iteration` in R

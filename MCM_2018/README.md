@@ -2,7 +2,11 @@
 
 ## Problem C - Meritorious Winner
 
-general linear regression; curve fitting
+- general linear regression
+  - `sklearn.linear_model.LinearRegression`
+  - `sklearn.preprocessing.PolynomialFeatures`
+- curve fitting
+  - `scipy.optimize.curve_fit`
 
 ## Background
 
